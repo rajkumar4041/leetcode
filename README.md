@@ -1,2 +1,2 @@
 # litcode
-tep toward competitive programming by solving litcode using java 
+Step toward competitive programming by solving litcode using java 
